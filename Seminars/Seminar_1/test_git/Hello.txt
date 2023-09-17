@@ -40,3 +40,8 @@ $$$$$$
 $$$$
 
 Good news, everyone!
+
+Hello there, it is Emil Stasevski forking and changing this file!
+
+
+
